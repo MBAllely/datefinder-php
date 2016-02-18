@@ -7,8 +7,8 @@
         {
             // Arrange
             $test_DayFinder = new DayFinder;
-            $month = 1;
             $day = 1;
+            $month = 1;
             $year = 1800;
 
             // Act
@@ -21,8 +21,8 @@
         {
             // Arrange
             $test_DayFinder = new DayFinder;
-            $month = 2;
             $day = 18;
+            $month = 2;
             $year = 2016;
 
             // Act
