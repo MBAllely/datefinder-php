@@ -1,8 +1,8 @@
-# _Dayfinder with PHP, Silex, and Twig_
+# Dayfinder with PHP, Silex, and Twig
 
 #### _A simple day finder, 2.18.2016_
 
-### By _**Joseph Karasek and Marika Allely**_
+### By Joseph Karasek and Marika Allely
 
 ## Description
 
